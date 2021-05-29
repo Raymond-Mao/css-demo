@@ -1,0 +1,24 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "sass --watch ./sass:./css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raymond-Mao/web-init.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raymond-Mao/web-init/issues"
+  },
+  "homepage": "https://github.com/Raymond-Mao/web-init#readme",
+  "devDependencies": {
+    "sass": "^1.34.0"
+  }
+}

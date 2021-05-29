@@ -130,7 +130,7 @@ body {
   transform: scaleX(1.4) scaleY(1.6);
 }
 
-.btn-animated {
+.btn--animated {
   animation: btnInUp 0.5s ease-out 0.7s;
   animation-fill-mode: backwards;
 }
